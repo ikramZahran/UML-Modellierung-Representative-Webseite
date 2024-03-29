@@ -1,0 +1,435 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Startinger\n"
+"POT-Creation-Date: 2021-05-17 21:49+0300\n"
+"PO-Revision-Date: 2021-05-17 21:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: attachment.php:31 single.php:28
+msgid " Previous"
+msgstr ""
+
+#: attachment.php:34 single.php:31
+msgid "Next "
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:39
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:45
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:47
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:49
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:53
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:54
+msgid "Startinger Theme by Seos Themes"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:87
+msgid "Default Image 1"
+msgstr ""
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:112
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:120
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:138
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:147
+msgid "Footer 4"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: include/animations/animations.php:28
+msgid "Default"
+msgstr ""
+
+#: include/animations/animations.php:29
+msgid "Deactivate Animation"
+msgstr ""
+
+#: include/animations/animations.php:30
+msgid "fade"
+msgstr ""
+
+#: include/animations/animations.php:31
+msgid "fade-up"
+msgstr ""
+
+#: include/animations/animations.php:32
+msgid "fade-down"
+msgstr ""
+
+#: include/animations/animations.php:33
+msgid "fade-left"
+msgstr ""
+
+#: include/animations/animations.php:34
+msgid "fade-right"
+msgstr ""
+
+#: include/animations/animations.php:35
+msgid "fade-up-right"
+msgstr ""
+
+#: include/animations/animations.php:36
+msgid "fade-up-left"
+msgstr ""
+
+#: include/animations/animations.php:37
+msgid "fade-down-right"
+msgstr ""
+
+#: include/animations/animations.php:38
+msgid "fade-down-left"
+msgstr ""
+
+#: include/animations/animations.php:39
+msgid "flip-up"
+msgstr ""
+
+#: include/animations/animations.php:40
+msgid "flip-down"
+msgstr ""
+
+#: include/animations/animations.php:41
+msgid "flip-left"
+msgstr ""
+
+#: include/animations/animations.php:42
+msgid "flip-right"
+msgstr ""
+
+#: include/animations/animations.php:43
+msgid "slide-up"
+msgstr ""
+
+#: include/animations/animations.php:44
+msgid "slide-down"
+msgstr ""
+
+#: include/animations/animations.php:45
+msgid "slide-left"
+msgstr ""
+
+#: include/animations/animations.php:46
+msgid "slide-right"
+msgstr ""
+
+#: include/animations/animations.php:47
+msgid "zoom-in"
+msgstr ""
+
+#: include/animations/animations.php:48
+msgid "zoom-in-up"
+msgstr ""
+
+#: include/animations/animations.php:49
+msgid "zoom-in-down"
+msgstr ""
+
+#: include/animations/animations.php:50
+msgid "zoom-in-left"
+msgstr ""
+
+#: include/animations/animations.php:51
+msgid "zoom-in-right"
+msgstr ""
+
+#: include/animations/animations.php:52
+msgid "zoom-out"
+msgstr ""
+
+#: include/animations/animations.php:53
+msgid "zoom-out-up"
+msgstr ""
+
+#: include/animations/animations.php:54
+msgid "zoom-out-down"
+msgstr ""
+
+#: include/animations/animations.php:55
+msgid "zoom-out-left"
+msgstr ""
+
+#: include/animations/animations.php:56
+msgid "zoom-out-right"
+msgstr ""
+
+#: include/animations/animations.php:76
+msgid "Animations"
+msgstr ""
+
+#: include/animations/animations.php:86 include/animations/animations.php:96
+msgid "Animation Articles"
+msgstr ""
+
+#: include/back-to-top-button.php:12
+msgid "Back To Top Button Options"
+msgstr ""
+
+#: include/back-to-top-button.php:22
+msgid "Activate Back To Top Button"
+msgstr ""
+
+#: include/back-to-top-button.php:38
+msgid "Button Color"
+msgstr ""
+
+#: include/back-to-top-button.php:49
+msgid "Button Hover Color"
+msgstr ""
+
+#: include/back-to-top-button.php:55
+msgid "Button Background Color"
+msgstr ""
+
+#: include/back-to-top-button.php:66
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/content-customizer.php:9
+msgid "Content Options"
+msgstr ""
+
+#: include/content-customizer.php:23
+msgid "Content max width"
+msgstr ""
+
+#: include/content-customizer.php:40
+msgid "Content Padding"
+msgstr ""
+
+#: include/content-customizer.php:54
+msgid "Hide sidebar and content on home page"
+msgstr ""
+
+#: include/customizer.php:32
+msgid "Background Color "
+msgstr ""
+
+#: include/customizer.php:49
+msgid "center center"
+msgstr ""
+
+#: include/customizer.php:50 include/customizer.php:132
+msgid "Real Size (Deactivate the image height.)"
+msgstr ""
+
+#: include/customizer.php:62 include/customizer.php:97
+msgid "All Pages"
+msgstr ""
+
+#: include/customizer.php:63 include/customizer.php:98
+msgid "Home Page"
+msgstr ""
+
+#: include/customizer.php:80
+msgid "Body Background Color"
+msgstr ""
+
+#: include/customizer.php:91
+msgid "Activate Header Image"
+msgstr ""
+
+#: include/customizer.php:111
+msgid "Image Height"
+msgstr ""
+
+#: include/customizer.php:125
+msgid "Image Position"
+msgstr ""
+
+#: include/customizer.php:131
+msgid "Background Cover (center center)"
+msgstr ""
+
+#: include/customizer.php:143
+msgid "Dectivate Image Shadow:"
+msgstr ""
+
+#: include/customizer.php:155
+msgid "Dectivate Image Zoom:"
+msgstr ""
+
+#: include/customizer.php:168
+msgid "Dectivate Text Animation:"
+msgstr ""
+
+#: include/customizer.php:181
+msgid "Activate Search Icon:"
+msgstr ""
+
+#: include/header-top.php:20
+msgid "Menu"
+msgstr ""
+
+#: include/header-top.php:34 include/header-top.php:37
+msgid "header image"
+msgstr ""
+
+#: include/read-more-button.php:24
+msgid "Read More"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:65
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: include/template-tags.php:78
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: include/template-tags.php:95 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28 template-parts/content.php:65
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:54
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Startinger"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://seosthemes.com/startinger-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Startinger is a Multipurpose and HTML5 WordPress Theme. Gutenberg "
+"Compatible, WooCommerce Compatible, Full Responsive, Content Options, Header "
+"Options, Back To Top Button, Microdata, Header Image Zoom, Animation and "
+"Custom Colors. Startinger Theme is very fast and SEO friendly Startinger "
+"Theme can be used by bloggers, magazine, portfolio, photography, newspaper, "
+"E-Commerce, news and many more. The theme is for any business."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://seosthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr ""
